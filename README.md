@@ -34,6 +34,17 @@ A stick diagram is drawn to illustrate the layout-level structure of the multipl
 **Figure:** ![Stick Diagram](Assets/Stick_Diagram.png)
 A stick diagram is drawn to illustrate the layout-level structure of the multiplexer, providing insight into how transistors are arranged in a physical layout.
 
+## MOSFET Usage
+A total of **72 MOSFETs** were used in the design:
+- **8** transistors per input for the NAND gate.
+- **2** transistors per inverter of the selection pin.
+- **2** transistors for inverting NAND output to AND.
+- **16** transistors for the NOR gate.
+- **2** transistors for the final NOT gate used in the OR gate input.
+
+Additionally, **PMOS transistors were twice the size of NMOS transistors** to balance drive strength and performance.
+
+
 ## Project Artifacts
 - **Schematic:** Representation of the 8x1 MUX circuit.
 - **ADE Simulations:** Verification waveforms of the multiplexer.
@@ -64,4 +75,4 @@ A stick diagram is drawn to illustrate the layout-level structure of the multipl
 - 📧 Email: isfar8953@gmail.com
 ---
 
-This README serves as documentation for the Cadence-based 8x1 MUX project, providing a structured overview for GitHub showcasing.
+⭐ If you find this project useful, consider giving it a star! ⭐
