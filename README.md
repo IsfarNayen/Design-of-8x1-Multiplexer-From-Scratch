@@ -7,31 +7,31 @@ This repository contains the VLSI design and simulation results of an 8x1 Multip
 ### 1. Schematic Design
 The schematic of the 8x1 MUX is created using Cadence Virtuoso. It represents the transistor-level implementation of the multiplexer.
 
-**Figure:** ![Schematic Diagram](path/to/MUX_Schematic.png)
+**Figure:** ![Schematic Diagram](Assets/MUX_Schematic.png)
 The schematic of the 8x1 MUX is created using Cadence Virtuoso. It represents the transistor-level implementation of the multiplexer.
 
 ### 2. ADE Simulations
 Cadence ADE (Analog Design Environment) is used to simulate the functionality of the 8x1 MUX. The waveform results validate the correct operation of the multiplexer.
 
-**Figure:** ![ADE Simulation](path/to/ADE_Simulation.png)
+**Figure:** ![ADE Simulation](Assets/ADE_Simulation.png)
 Cadence ADE (Analog Design Environment) is used to simulate the functionality of the 8x1 MUX. The waveform results validate the correct operation of the multiplexer.
 
 ### 3. Power Analysis
 The power consumption of the 8x1 MUX is analyzed by measuring the total power usage over time. This helps in evaluating the efficiency of the design.
 
-**Figure:** ![Power Analysis](path/to/Power_Usage.png)
+**Figure:** ![Power Analysis](Assets/Power_Usage.png)
 The power consumption of the 8x1 MUX is analyzed by measuring the total power usage over time. This helps in evaluating the efficiency of the design.
 
 ### 4. Symbol Representation
 A symbolic representation of the 8x1 MUX is generated to provide a high-level abstraction of the circuit.
 
-**Figure:** ![Symbol Representation](path/to/MUX_Symbol.png)
+**Figure:** ![Symbol Representation](Assets/MUX_Symbol.png)
 A symbolic representation of the 8x1 MUX is generated to provide a high-level abstraction of the circuit.
 
 ### 5. Stick Diagram
 A stick diagram is drawn to illustrate the layout-level structure of the multiplexer, providing insight into how transistors are arranged in a physical layout.
 
-**Figure:** ![Stick Diagram](path/to/Stick_Diagram.png)
+**Figure:** ![Stick Diagram](Assets/Stick_Diagram.png)
 A stick diagram is drawn to illustrate the layout-level structure of the multiplexer, providing insight into how transistors are arranged in a physical layout.
 
 ## Project Artifacts
