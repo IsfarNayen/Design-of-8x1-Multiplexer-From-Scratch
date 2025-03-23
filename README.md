@@ -63,9 +63,9 @@ Additionally, **PMOS transistors were twice the size of NMOS transistors** to ba
 4. Run the simulations and analyze the waveforms.
 5. Check the power consumption results.
 6. Or view the whole project in PDF form:
-  [![View Certificate](https://img.shields.io/badge/View-Certificate-blue)](VLSI_Project(1908023).pdf)
+   [![View Project](https://img.shields.io/badge/View-Project-blue)](VLSI_Project(1908023).pdf)
 7. Or download it directly:
-   📄 [Download Certificate](VLSI_Project(1908023).pdf)
+   📄 [Download Project](VLSI_Project(1908023).pdf)
 
 ## Future Improvements
 - Implement the layout design and perform DRC & LVS checks.
