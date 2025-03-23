@@ -1,7 +1,7 @@
 # 8x1 Multiplexer (MUX) - VLSI Design Project
 
 ## Overview
-This repository contains the VLSI design and simulation results of an 8x1 Multiplexer (MUX) implemented using Cadence tools. The project includes schematic design, ADE simulations, power analysis, symbol representation, and stick diagrams.
+This repository contains the VLSI design and simulation results of an 8x1 Multiplexer (MUX) implemented using Cadence tools. The project includes schematic design, ADE simulations, power analysis, symbol representation, and stick diagrams without using hirearchical design.
 
 ## Project Components
 ### 1. Schematic Design
@@ -62,6 +62,10 @@ Additionally, **PMOS transistors were twice the size of NMOS transistors** to ba
 3. Open **ADE** for simulation setup.
 4. Run the simulations and analyze the waveforms.
 5. Check the power consumption results.
+6. Or view the whole project in PDF form:
+  [![View Certificate](https://img.shields.io/badge/View-Certificate-blue)](VLSI_Project(1908023).pdf)
+7. Or download it directly:
+   📄 [Download Certificate](VLSI_Project(1908023).pdf)
 
 ## Future Improvements
 - Implement the layout design and perform DRC & LVS checks.
